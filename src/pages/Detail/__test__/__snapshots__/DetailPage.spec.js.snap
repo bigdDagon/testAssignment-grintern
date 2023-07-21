@@ -1,0 +1,155 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Detail Page renders Detail Page 1`] = `
+<div
+  class="MuiBox-root css-79elbk"
+  data-testid="detail-page-wrapper"
+>
+  <button
+    class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium css-11jvbna-MuiButtonBase-root-MuiButton-root"
+    tabindex="0"
+    type="button"
+  >
+    Back
+    <span
+      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+    />
+  </button>
+  <div
+    class="MuiBox-root css-kwuok"
+  >
+    <div
+      class="MuiBox-root css-opcd4z"
+      data-testid="cover-image"
+    >
+      <img
+        alt="Romeo and Juliet"
+        src="https://www.gutenberg.org/cache/epub/1513/pg1513.cover.medium.jpg"
+        width="100%"
+      />
+    </div>
+    <div
+      class="MuiBox-root css-i9gxme"
+    >
+      <div
+        class="MuiBox-root css-0"
+      >
+        <h4
+          class="MuiTypography-root MuiTypography-h4 css-1blr37w-MuiTypography-root"
+          data-testid="book-title"
+        >
+          Romeo and Juliet
+        </h4>
+        <div
+          class="MuiBox-root css-178yklu"
+        >
+          <div
+            class="MuiBox-root css-68zlnx"
+            data-testid="Author"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body1 css-5uz6um-MuiTypography-root"
+            >
+              Author
+              :
+            </p>
+            <div
+              class="MuiBox-root css-d0uhtl"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body1 css-5uz6um-MuiTypography-root"
+              >
+                Shakespeare, William (1564 ~ 1616)
+              </p>
+            </div>
+          </div>
+          <div
+            class="MuiBox-root css-68zlnx"
+            data-testid="Subject"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body1 css-5uz6um-MuiTypography-root"
+            >
+              Subject
+              :
+            </p>
+            <div
+              class="MuiBox-root css-d0uhtl"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body1 css-5uz6um-MuiTypography-root"
+              >
+                Conflict of generations -- Drama
+              </p>
+              <p
+                class="MuiTypography-root MuiTypography-body1 css-5uz6um-MuiTypography-root"
+              >
+                Juliet (Fictitious character) -- Drama
+              </p>
+              <p
+                class="MuiTypography-root MuiTypography-body1 css-5uz6um-MuiTypography-root"
+              >
+                Romeo (Fictitious character) -- Drama
+              </p>
+              <p
+                class="MuiTypography-root MuiTypography-body1 css-5uz6um-MuiTypography-root"
+              >
+                Tragedies
+              </p>
+              <p
+                class="MuiTypography-root MuiTypography-body1 css-5uz6um-MuiTypography-root"
+              >
+                Vendetta -- Drama
+              </p>
+              <p
+                class="MuiTypography-root MuiTypography-body1 css-5uz6um-MuiTypography-root"
+              >
+                Verona (Italy) -- Drama
+              </p>
+              <p
+                class="MuiTypography-root MuiTypography-body1 css-5uz6um-MuiTypography-root"
+              >
+                Youth -- Drama
+              </p>
+            </div>
+          </div>
+          <div
+            class="MuiBox-root css-68zlnx"
+            data-testid="Summary"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body1 css-5uz6um-MuiTypography-root"
+            >
+              Summary
+              :
+            </p>
+            <div
+              class="MuiBox-root css-d0uhtl"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body1 css-5uz6um-MuiTypography-root"
+              >
+                Lorem Ipsum Lorem Ipsum Lorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem Ipsum Lorem Ipsum Lorem   IpsumLorem Ipsum vLorem IpsumLorem Ipsum Lorem Ipsum Lorem Ipsum Lorem IpsumLorem IpsumLorem Ipsum   Lorem IpsumLorem Ipsum Lorem Ipsum Lorem IpsumLorem Ipsum vLorem IpsumLorem Ipsum
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="MuiBox-root css-1d3apxl"
+  >
+    <button
+      class="MuiButtonBase-root MuiFab-root MuiFab-extended MuiFab-sizeLarge MuiFab-secondary MuiFab-root MuiFab-extended MuiFab-sizeLarge MuiFab-secondary css-1uhx2if-MuiButtonBase-root-MuiFab-root"
+      tabindex="0"
+      type="button"
+    >
+      Reserve
+      <span
+        class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+      />
+    </button>
+  </div>
+</div>
+`;
